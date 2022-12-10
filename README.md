@@ -12,6 +12,6 @@ Somethign I realized while doing the loop was my lack of undestanding for JQuery
 
 Overall I feel this is the project I have learned the most from, specially tools to use in the future. Really need to practice this more too
 
-Link:
+Link: https://manuelc0159.github.io/Challenge5/
 
-![website](./Screenshot_2.png);
+![website](./Screenshot_2.png)
